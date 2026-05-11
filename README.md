@@ -1,16 +1,36 @@
-## Hi there 👋
+ # Hi, I'm Manas 👋
 
-<!--
-**Manas-2005-oss/Manas-2005-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Full Stack Developer  
+🤖 AI & Generative AI Enthusiast  
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- JavaScript
+- Python
+- FastAPI
+- Node.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### AI Chatbot
+AI-powered chatbot using Python and NLP concepts.
+
+### College Discovery Platform
+Full-stack college comparison platform using React, FastAPI, and MongoDB.
+
+### Smart Surveillance System
+AI-based monitoring and detection system.
+
+### CGE Economic Policy Simulator
+AI-powered Computable General Equilibrium (CGE) simulator for real-time economic policy impact analysis and visualization.
+
+## Currently Learning
+- DSA
+- System Design
+- Generative AI
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/manas-ippalpalli-84a694325
+- Email: manasippalpalli@gmail.com
