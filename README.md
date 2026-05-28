@@ -1,36 +1,102 @@
- # Hi, I'm Manas 👋
+# Hi, I'm Manas 👋
 
-🎓 B.Tech Student  
-💻 Full Stack Developer  
-🤖 AI & Generative AI Enthusiast  
+<div align="center">
 
-## Tech Stack
-- React.js
-- JavaScript
-- Python
-- FastAPI
-- Node.js
-- MongoDB
+### Full Stack Developer | AI Enthusiast | B.Tech Student
 
-## Featured Projects
+Passionate about building scalable web applications, AI-powered systems, and real-world problem-solving projects using modern technologies.
 
-### AI Chatbot
-AI-powered chatbot using Python and NLP concepts.
+</div>
 
-### College Discovery Platform
-Full-stack college comparison platform using React, FastAPI, and MongoDB.
+---
 
-### Smart Surveillance System
-AI-based monitoring and detection system.
+## 🚀 About Me
 
-### CGE Economic Policy Simulator
-AI-powered Computable General Equilibrium (CGE) simulator for real-time economic policy impact analysis and visualization.
+* 🎓 B.Tech Student passionate about technology and innovation
+* 💻 Full Stack Developer focused on modern web applications
+* 🤖 Exploring Artificial Intelligence, Generative AI, and intelligent systems
+* 📊 Interested in AI-driven simulations, analytics, and automation
+* 🌱 Currently improving my skills in DSA, System Design, and AI Engineering
 
-## Currently Learning
-- DSA
-- System Design
-- Generative AI
+---
 
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/manas-ippalpalli-84a694325
-- Email: manasippalpalli@gmail.com
+## 🛠️ Tech Stack
+
+### Frontend
+
+* ⚛️ React.js
+* 🎨 Tailwind CSS
+* 🟨 JavaScript
+* ⚡ Vite
+
+### Backend
+
+* 🐍 Python
+* ⚡ FastAPI
+* 🌐 Node.js
+
+### Database
+
+* 🍃 MongoDB
+* 🛢️ MySQL
+
+### Tools & Technologies
+
+* 🐙 Git & GitHub
+* 📊 Data Visualization
+* 🤖 Generative AI APIs
+* 🔗 REST APIs
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Chatbot
+
+AI-powered chatbot built using Python and NLP concepts capable of understanding user queries and generating intelligent responses.
+
+### 🎓 College Discovery Platform
+
+Full-stack college comparison and discovery platform developed using React, FastAPI, and MongoDB with advanced filtering and analytics features.
+
+### 🛡️ Smart Surveillance System
+
+AI-based smart monitoring and detection system designed for real-time surveillance, object detection, and automated alert generation.
+
+### 📈 THRUST – CGE Economic Policy Simulator
+
+AI-powered Computable General Equilibrium (CGE) simulator designed to analyze the impact of economic policies on GDP, inflation, unemployment, trade balance, and sector growth using interactive visualizations and AI-generated policy interpretation.
+
+---
+
+## 📚 Currently Learning
+
+* 🧠 Data Structures & Algorithms
+* 🏗️ System Design
+* 🤖 Generative AI
+* 📊 Economic Modeling
+* ☁️ Cloud & Deployment
+
+---
+
+## 🎯 Goals
+
+* Build impactful AI-powered products
+* Contribute to open-source projects
+* Become a skilled AI & Full Stack Engineer
+* Work on scalable real-world systems
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/manas-ippalpalli-84a694325](http://www.linkedin.com/in/manas-ippalpalli-84a694325)
+* 📧 Email: [manasippalpalli@gmail.com](mailto:manasippalpalli@gmail.com)
+
+---
+
+<div align="center">
+
+### ⭐ “Building intelligent systems that solve real-world problems.”
+
+</div>
