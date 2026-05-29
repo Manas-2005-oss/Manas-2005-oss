@@ -92,7 +92,8 @@ AI-powered Computable General Equilibrium (CGE) simulator designed to analyze th
 
 * 💼 LinkedIn: [www.linkedin.com/in/manas-ippalpalli-84a694325](http://www.linkedin.com/in/manas-ippalpalli-84a694325)
 * 📧 Email: [manasippalpalli@gmail.com](mailto:manasippalpalli@gmail.com)
-
+My portfolio:
+https://manasippalpalli.vercel.app/
 ---
 
 <div align="center">
