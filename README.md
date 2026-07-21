@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full Stack Developer | AI Enthusiast | B.Tech Student
+### Full Stack Developer | AI Engineering | Software Developer | B.Tech Student
 
 Passionate about building scalable web applications, AI-powered systems, and real-world problem-solving projects using modern technologies.
 
