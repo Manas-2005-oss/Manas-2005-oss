@@ -55,10 +55,6 @@ Passionate about building scalable web applications, AI-powered systems, and rea
 
 AI-powered chatbot built using Python and NLP concepts capable of understanding user queries and generating intelligent responses.
 
-### 🎓 College Discovery Platform
-
-Full-stack college comparison and discovery platform developed using React, FastAPI, and MongoDB with advanced filtering and analytics features.
-
 ### 🛡️ Smart Surveillance System
 
 AI-based smart monitoring and detection system designed for real-time surveillance, object detection, and automated alert generation.
